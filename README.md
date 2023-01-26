@@ -11,6 +11,7 @@ En este curso vemos de todo:
 - Las personalidades multiples de freddy
 - Creado por el increible platzi team
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades 
 
 
 
