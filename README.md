@@ -10,6 +10,8 @@ En este curso vemos de todo:
 - Trucos muy locos del profesor
 - Las personalidades multiples de freddy
 - Creado por el increible platzi team
+- Incluye ejemplos en Windows, Linux y Mac
+
 
 
 Y como un amable recordatorio: ***Este readme.md es un ejemplo***
